@@ -1,0 +1,23 @@
+{
+  "name": "greedy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chck/greedy.git"
+  },
+  "author": "chck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chck/greedy/issues"
+  },
+  "homepage": "https://github.com/chck/greedy#readme",
+  "dependencies": {
+    "electron-packager": "^8.2.0",
+    "electron-prebuilt": "^1.4.6"
+  }
+}
